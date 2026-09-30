@@ -1,11 +1,13 @@
 {
-  "version": "0.9.0",
-  "canonical_data_sha256": "cd9e622923fa025f859b8365d02db42f1debdb13ad65574ab7bde9426ea8ebe3",
-  "public_json_sha256": "d9e30e616c1c379c2bfc7ad57e7565e96840602991c7a48b8c4430a83e48f37e",
-  "public_js_sha256": "5fb9757bc7f2b814b1a13064ed1ef5d141d21904db25624ae23939fbf632d432",
+  "view_version": "1.0",
+  "canonical_sha256": "a3e08eab78730b5e5e1d874c2e8804beb7bafc409223fa5db8ed80b574950555",
+  "research_batch": "RB-KARL-20260930-001",
+  "commit_state": "COMMITTED_VERIFIED",
+  "generated_at": "2026-09-30T15:37:18+02:00",
+  "source": "COCKPIT_DATA_CURRENT.json",
+  "role": "derived_publication",
+  "public_projection": "expurgated",
   "programs": 136,
-  "queue_items": 11,
-  "karl_claims": 4,
-  "karl_holds": 5,
-  "karl_gaps": 9
+  "monographs": 8,
+  "events_curated": 1
 }
