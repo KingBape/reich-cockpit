@@ -1,12 +1,15 @@
 # reich-cockpit
 
-Vue publique dérivée du Cockpit documentaire 1933–1945.
+Vue publique dérivée du Catalogue documentaire des armes du IIIe Reich, 1933–1945.
 
-## Architecture V0.9
+## Autorité
 
-- La base canonique complète reste privée dans Google Drive.
-- Ce dépôt public contient uniquement l'interface et la projection expurgée générée depuis cette base.
-- Les sources primaires brutes, scans, reproductions et SOURCE_VAULT ne sont jamais publiés ici.
-- V85 reste l'autorité legacy jusqu'au re-audit V0.9 et au cutover formel.
+`COCKPIT_DATA_CURRENT.json` sur Google Drive est l’unique système de record. Ce dépôt GitHub ne contient qu’une projection dérivée destinée à la consultation. GitHub Pages ne crée ni ne modifie l’état canonique.
 
-GitHub Pages sert `index.html` depuis `main / root`.
+## Publication
+
+CURRENT canonique → validation → génération de la vue → projection publique expurgée → `index.html` → GitHub Pages.
+
+Le SHA canonique et le dernier `ResearchBatch` publiés sont consignés dans `build-state.json`.
+
+Les documents de travail, scans, journaux de recherche, routes d’acquisition, gaps, RA/HOLD, identifiants Drive internes et autres données de pilotage ne sont pas publiés dans ce dépôt.
