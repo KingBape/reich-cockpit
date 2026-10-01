@@ -1,9 +1,9 @@
 {
   "view_version": "1.1",
-  "canonical_sha256": "7a58c6b56540916a6903e5b263beb8bba183f42c6ef4ce36388ede2b63e66fcd",
-  "research_batch": "RB-KARL-20261001-008",
+  "canonical_sha256": "02fc64dbc0cfa46464e23d681ec9e2c29cfc7e9ce689167e613ff793488346e2",
+  "research_batch": "RB-KARL-20261001-009",
   "commit_state": "COMMITTED_VERIFIED",
-  "generated_at": "2026-10-01T19:05:20+02:00",
+  "generated_at": "2026-10-01T19:21:25+02:00",
   "source": "COCKPIT_DATA_CURRENT.json",
   "role": "derived_publication",
   "public_projection": "expurgated_v1_1",
