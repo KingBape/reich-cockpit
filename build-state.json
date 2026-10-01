@@ -1,13 +1,14 @@
 {
-  "view_version": "1.0",
-  "canonical_sha256": "faada424f81ce358e4db39b27a37e6bacfb30f75bc77f825f8a75e5ac32040ab",
-  "research_batch": "RB-KARL-20261001-005",
+  "view_version": "1.1",
+  "canonical_sha256": "7ae4310556269cd6a7200f36fe89e8f6f3b7aef5673f0af34bf9d0a26ae6f09e",
+  "research_batch": "RB-METHOD-20261001-001",
   "commit_state": "COMMITTED_VERIFIED",
-  "generated_at": "2026-10-01T03:50:02+02:00",
+  "generated_at": "2026-10-01T17:51:21+02:00",
   "source": "COCKPIT_DATA_CURRENT.json",
   "role": "derived_publication",
-  "public_projection": "expurgated",
+  "public_projection": "expurgated_v1_1",
   "programs": 136,
   "monographs": 8,
-  "events_curated": 1
+  "events_curated": 1,
+  "semantic_validation": "PASS"
 }
