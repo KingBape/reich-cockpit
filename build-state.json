@@ -1,15 +1,15 @@
 {
-  "view_version": "1.1",
-  "canonical_sha256": "fce34b6ed308abc7cd585bde3d5f0907a0870d106b311183a008ea34a2745b8f",
-  "research_batch": "RB-KARL-20261001-011",
+  "view_version": "2.0",
+  "canonical_sha256": "e098c36bd3f53225709184bf9f785fea914b87e9d10722706c30e65727390299",
+  "research_batch": "RB-HARDENING-20261005-001",
   "commit_state": "COMMITTED_VERIFIED",
-  "generated_at": "2026-10-01T22:48:30+02:00",
+  "generated_at": "2026-10-05T21:01:38+00:00",
   "source": "COCKPIT_DATA_CURRENT.json",
   "role": "derived_publication",
-  "public_projection": "expurgated_v1_1",
-  "derived_publication": "STALE_INDEX_BATCH_010",
+  "public_projection": "PUBLIC_SAFE_V2",
+  "derived_publication": "DEPLOYED_PENDING_CANONICAL_ACK",
   "programs": 136,
-  "monographs": 8,
-  "events_curated": 1,
-  "semantic_validation": "PASS"
+  "structured_dossiers": 19,
+  "semantic_validation": "PASS",
+  "public_index_sha256": "5acb1895a801582440baec0b393b74ac8b8f27fab258df44c0aeec207d39e314"
 }
